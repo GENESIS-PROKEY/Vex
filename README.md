@@ -10,6 +10,8 @@
 </p>
 
 <p align="center">
+  <a href="https://vex-bay.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-vex--bay.vercel.app-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Live Demo" /></a>
+  &nbsp;
   <a href="https://github.com/GENESIS-PROKEY/Vex"><img src="https://img.shields.io/github/stars/GENESIS-PROKEY/Vex?style=for-the-badge&logo=github&color=00ff88&labelColor=0a0a0a" alt="Stars" /></a>
 </p>
 
