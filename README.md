@@ -190,7 +190,7 @@ Contributions are welcome! Here's how to get started:
 
 ### Submitting Payloads
 
-You can submit new payloads through the in-app `/submit` page or by opening a PR with your payload added to the `src/data/` directory.
+You can submit new payloads by opening a PR with your payload added to the `src/data/` directory.
 
 <br />
 
