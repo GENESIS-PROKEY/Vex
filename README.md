@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://xssnow.in"><img src="https://img.shields.io/badge/🌐_Live_Demo-xssnow.in-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Live Demo" /></a>
-  &nbsp;
   <a href="https://github.com/GENESIS-PROKEY/Vex"><img src="https://img.shields.io/github/stars/GENESIS-PROKEY/Vex?style=for-the-badge&logo=github&color=00ff88&labelColor=0a0a0a" alt="Stars" /></a>
 </p>
 
@@ -30,8 +28,6 @@
 **Vex** is an open-source, curated database of **940+ XSS payloads** built for security professionals. It combines a powerful search engine, advanced filtering, and a live DOM playground — all wrapped in a polished, themeable interface designed to feel like a proper security tool, not a spreadsheet.
 
 Every payload is tagged with metadata: injection context, browser compatibility, WAF bypass targets, encoding type, difficulty level, and character count. This makes Vex the fastest way to find the exact payload you need during a penetration test or bug bounty hunt.
-
-> **🌐 Try it live:** [**xssnow.in**](https://xssnow.in)
 
 <br />
 
@@ -202,10 +198,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Inspiration & Credits
 
-Vex is the complete ground-up rebuild of [**XSSNow**](https://xssnow.in) — the original XSS payload platform I built. XSSNow started as a simple static HTML/CSS/JS site to catalog payloads, but as the payload count grew past 900+ and features became more complex, it became clear that a proper framework was needed. Vex is the result: same mission, completely new architecture, and a design that finally does the payload database justice.
+Vex was inspired by the idea that XSS payload resources shouldn't be stuck in outdated cheat sheets and scattered GitHub gists. There should be a modern, searchable, beautifully designed tool for it — and that's what Vex is.
 
-**The original spark:**
-- **[XSSNow](https://xssnow.in)** — The original project that started it all. A static-site XSS payload database that Vex is the successor to. Everything good about XSSNow lives on in Vex, rebuilt from scratch with modern tooling.
+**The original inspiration:**
+- **[XSSNow](https://xssnow.in)** — The project that sparked the idea. Seeing how XSSNow organized and presented XSS payloads made me want to build something similar with a modern tech stack, advanced filtering, and a design that feels like a real security tool. Vex wouldn't exist without XSSNow showing me what was possible.
 
 **Payload research and data sources:**
 - **[XSS Cheat Sheet by PortSwigger](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)** — The gold standard for XSS reference. Vex aims to make that depth of knowledge searchable and interactive.
