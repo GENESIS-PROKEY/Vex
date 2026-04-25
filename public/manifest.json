@@ -1,0 +1,18 @@
+{
+  "name": "Vex — Cross the line.",
+  "short_name": "Vex",
+  "description": "The ultimate XSS payload arsenal for security researchers, penetration testers, and bug bounty hunters.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#00ff88",
+  "orientation": "any",
+  "categories": ["security", "developer tools"],
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
